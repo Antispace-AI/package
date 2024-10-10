@@ -1,0 +1,18 @@
+{
+  "name": "antispace",
+  "version": "1.0.1",
+  "description": "Is the string antispace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Antispace-AI/package/tree/main)"
+  },
+  "keywords": [
+    "Antispace"
+  ],
+  "author": "Chingun Khasar",
+  "license": "ISC"
+}
